@@ -25,6 +25,7 @@ public class Practica1 {
         boolean valor4= false;
         Scanner teclado= new Scanner(System.in);
         System.out.println("lo cambie nuevamente desde el cliente local");
+        System.out.println("agrego otra linea");
         valor2= teclado.nextLine();
        sumar(valor7);
       
