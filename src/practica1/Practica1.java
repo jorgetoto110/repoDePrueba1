@@ -24,7 +24,7 @@ public class Practica1 {
         double valor3= 25.8;
         boolean valor4= false;
         Scanner teclado= new Scanner(System.in);
-        System.out.println("ingrese su nombre");
+        System.out.println("lo cambie nuevamente desde el cliente local");
         valor2= teclado.nextLine();
        sumar(valor7);
       
