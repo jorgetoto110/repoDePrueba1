@@ -20,7 +20,7 @@ public class Practica1 {
         int valor7=5;
         int valor5=1;
         int valor =3;    
-        String valor2= "Juan";
+        String valor2= "juan segundo prueba de git";
         double valor3= 25.8;
         boolean valor4= false;
         Scanner teclado= new Scanner(System.in);
