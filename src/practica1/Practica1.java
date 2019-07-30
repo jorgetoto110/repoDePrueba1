@@ -25,6 +25,7 @@ public class Practica1 {
         boolean valor4= false;
         Scanner teclado= new Scanner(System.in);
         System.out.println("soy re jodido y te lo volví a cambiar");
+        System.out.println("cambio realizado de github");
         valor2= teclado.nextLine();
        sumar(valor7);
       
